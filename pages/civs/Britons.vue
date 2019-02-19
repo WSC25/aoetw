@@ -105,9 +105,8 @@
             </li>
             <li>
               <nuxt-link to="/techs/Yeomen">義勇騎兵</nuxt-link>搬到<nuxt-link
-                to=""
-                城堡時代
-              ></nuxt-link
+                to="/techs/age/Castle_Age"              
+              >城堡時代 </nuxt-link
               >。
             </li>
             <li>
